@@ -45,7 +45,7 @@ My goal for this semester is to learn [Skill].
 ```
 
 ### Step 4: Commit Changes
-Scroll down. In the "Commit message" box, write: `Added [Your Name] to the list`. Then click **Commit changes**.
+On the top right of the screen, click "Commit changes...". In the "Commit message" box, write: `Added [Your Name] to the list`. Then click **Commit changes**.
 
 ### Step 5: The Pull Request (Crucial!)
 1.  Go back to the main page of your repository.
